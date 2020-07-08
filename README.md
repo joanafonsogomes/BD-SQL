@@ -1,4 +1,5 @@
 # BD_SQL
-Agendamento e realização de Testes Clínicos de atletas de Atletismo de diferentes modalidades e categorias.
 
-Projeto de **Bases de Dados** (Modelo Relacional, SQL) 2019/2020
+Scheduling and conducting clinical tests of Athletics athletes of different modalities and categories.
+
+**Databases** (Bases de Dados) project, Relational Model (SQL) 2019/2020
